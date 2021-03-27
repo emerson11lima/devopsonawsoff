@@ -1,0 +1,13 @@
+{
+  "name": "devopsonawsoff",
+  "version": "1.0.0",
+  "description": "Sample Node.js (Express) ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "MIT-0",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
